@@ -1,1 +1,1 @@
-Who am i ? I am a hobbiyst programmer mainly into wed design and system development. Lets just say people like me enjoy coding. Its what gives us purpose and strength. The thought of converting lines of code into a viable digital product is exciting. Thats it. Thats who i am.
+Who am i ? I am a hobbiyst programmer mainly into web design and systems development. Lets just say the thrill of coding keeps me going. Its what gives me purpose and strength. The thought of converting lines of code into a viable digital product is exciting. Thats it. Thats who i am.
