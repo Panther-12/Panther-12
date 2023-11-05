@@ -42,7 +42,18 @@
 
 ###
 
-<p align="left">I'm Nimrod from Chuka<br><br>- 🔭 I’m working as Fullstack Web Developer<br>- 📚 I'm currently learning AWS Cloud Computing<br>- ⚡ In my free time I play video games and binge watch anime</p>
+<p align="left">I'm Nimrod from Chuka<br><br>- 🔭 I’m working as Fullstack Web Developer<br>- 📚 I'm currently learning AWS Cloud Computing<br>- ⚡ In my free time I play video games and binge watch anime</p>  
+- 👨‍💻 All of my projects are available at [http://codewithnim.me/codewithnim/](http://codewithnim.me/codewithnim/)
+
+- 📝 I regularly write articles on [https://medium.com/@nimrodnyongesa7](https://medium.com/@nimrodnyongesa7)
+
+- 💬 Ask me about **react, next.js, express.js, django, mongoDB**
+
+- 📫 How to reach me **nimrodnyongesa7@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iMSWJi7lrHnr2YbdkJIEBTXVLViR3OMP/view?usp=sharing](https://drive.google.com/file/d/1iMSWJi7lrHnr2YbdkJIEBTXVLViR3OMP/view?usp=sharing)
+
+- ⚡ Fun fact **I love video games**
 
 ###
 
@@ -152,9 +163,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Panther-12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panther-12&show_icons=true&locale=en&layout=compact" alt="panther-12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panther-12&show_icons=true&locale=en" alt="panther-12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panther-12&" alt="panther-12" /></p>
 
 ###
 
@@ -162,7 +175,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nimrodnyongesa7" alt="Layout with last medium posts"  />
 </div>
 
@@ -174,3 +187,13 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kikrvk2ryr7kv4ehbhegk57jsy)
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/nimrodnyongesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nimrodnyongesa" height="30" width="40" /></a>
+<a href="https://dev.to/panther12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="panther12" height="30" width="40" /></a>
+<a href="https://twitter.com/nimrodwalwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimrodwalwe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimrod-nyongesa-walwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimrod-nyongesa-walwe" height="30" width="40" /></a>
+<a href="https://medium.com/@nimrodnyongesa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nimrodnyongesa7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/silentsea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silentsea" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/panther-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panther-12" height="30" width="40" /></a>
+</p>
