@@ -158,9 +158,19 @@
 
 ###
 
+<h3 align="left">📝   My Articles :</h3>
+
+###
+
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nimrodnyongesa7" alt="Layout with last medium posts"  />
 </div>
 
 ###
+
+<h3 align="left">🎧   The love for Music :</h3>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kikrvk2ryr7kv4ehbhegk57jsy)
 
