@@ -164,6 +164,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Panther-12/Panther-12/output/snake.svg" alt="Snake animation" />
-
-###
