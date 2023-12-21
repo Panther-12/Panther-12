@@ -98,6 +98,7 @@
 ###
 
 <h3 align="left">🔥 My Stats</h3>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Panther-12/langs)](https://githubtrends.io)
 
 ###
 
