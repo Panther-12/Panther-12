@@ -97,7 +97,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<h3 align="left">📝   My Articles :</h3>
+<h3 align="left">📝  My Articles</h3>
 
 ###
 
@@ -119,13 +119,13 @@
 
 ###
 
-<h3 align="left">🎧   The love for Music :</h3>
+<h3 align="left">🎧  The love for Music</h3>
 
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kikrvk2ryr7kv4ehbhegk57jsy)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://codepen.io/nimrodnyongesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nimrodnyongesa" height="30" width="40" /></a>
 <a href="https://dev.to/panther12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="panther12" height="30" width="40" /></a>
