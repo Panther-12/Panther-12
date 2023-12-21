@@ -42,21 +42,6 @@
 
 ###
 
-<p align="left">I'm Nimrod from Chuka<br><br>- 🔭 I’m working as Fullstack Web Developer<br>- 📚 I'm currently learning AWS Cloud Computing<br>- ⚡ In my free time I play video games and binge watch anime</p>  
-- 👨‍💻 All of my projects are available at [http://codewithnim.me/codewithnim/](http://codewithnim.me/codewithnim/)
-
-- 📝 I regularly write articles on [https://medium.com/@nimrodnyongesa7](https://medium.com/@nimrodnyongesa7)
-
-- 💬 Ask me about **react, next.js, express.js, django, mongoDB**
-
-- 📫 How to reach me **nimrodnyongesa7@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iMSWJi7lrHnr2YbdkJIEBTXVLViR3OMP/view?usp=sharing](https://drive.google.com/file/d/1iMSWJi7lrHnr2YbdkJIEBTXVLViR3OMP/view?usp=sharing)
-
-- ⚡ Fun fact **I love video games**
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
