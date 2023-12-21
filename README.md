@@ -134,4 +134,48 @@
 <a href="https://medium.com/@nimrodnyongesa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nimrodnyongesa7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/silentsea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silentsea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/panther-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panther-12" height="30" width="40" /></a>
-</p>
+</p>  
+# Nimrod Nyongesa - Panther-12
+
+Hello! I'm **Nimrod Nyongesa**, also known as _Panther-12_. I am a passionate software developer specializing in modern web and app development technologies. I love crafting beautiful and functional applications that make a difference.
+
+## Technologies & Tools
+
+I have experience with a range of technologies, from front-end to back-end development:
+
+- **Front-End Development:**
+  - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  - ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- **Back-End Development:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+  - ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+- **Databases:**
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+- **Tools:**
+  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  - ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. **Project Name**: Description of the project. [Link to project](#)
+2. **Project Name**: Description of the project. [Link to project](#)
+3. **Project Name**: Description of the project. [Link to project](#)
+
+_...more projects_
+
+## Contact Me
+
+- **LinkedIn**: [Nimrod Nyongesa](https://www.linkedin.com/in/nimrod-nyongesa)
+- **GitHub**: [Panther-12](https://github.com/Panther-12)
+- **Email**: [nimrod.nyongesa@example.com](mailto:nimrod.nyongesa@example.com)
+
+---
+
+*Designed with 💙 using Markdown and Figma inspirations.*
+
